@@ -52,5 +52,6 @@ public static class Lavadora{
     public void setPrecio(int precio){
         this.precio = precio;
     }
+    //Haciendo una cambio para este archivo probando GitHub
    }
   }
